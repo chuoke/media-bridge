@@ -143,12 +143,12 @@ class WikimediaDriver extends AbstractDriver
     private function mapPage(array $page): ?MediaItem
     {
         $info = $page['imageinfo'][0] ?? null;
-        if (!$info) {
+        if (! $info) {
             return null;
         }
 
         $url = $info['url'] ?? '';
-        if (!$url) {
+        if (! $url) {
             return null;
         }
 
@@ -163,7 +163,7 @@ class WikimediaDriver extends AbstractDriver
         $license = $this->normalizeLicense($license);
 
         $artist = strip_tags($meta['Artist']['value'] ?? '');
-        if (!$artist) {
+        if (! $artist) {
             $artist = $info['user'] ?? null;
         }
 
@@ -175,7 +175,7 @@ class WikimediaDriver extends AbstractDriver
         $height = $info['height'] ?? null;
 
         $thumbUrl = $info['thumburl'] ?? '';
-        if (!$thumbUrl) {
+        if (! $thumbUrl) {
             $thumbUrl = $url;
         }
         $variants = [
@@ -230,7 +230,7 @@ class WikimediaDriver extends AbstractDriver
 
     private function parseDate(?string $raw): ?string
     {
-        if (!$raw) {
+        if (! $raw) {
             return null;
         }
         if (preg_match('/^(\d{4})-(\d{2})-(\d{2})/', $raw, $m)) {

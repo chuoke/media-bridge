@@ -120,7 +120,7 @@ class PixabayDriver extends AbstractDriver
             'full_hd' => ['url' => 'fullHDURL'],
             'original' => ['url' => 'imageURL', 'width' => 'imageWidth', 'height' => 'imageHeight'],
         ] as $type => $fields) {
-            if (!empty($image[$fields['url']])) {
+            if (! empty($image[$fields['url']])) {
                 $variants[] = new MediaVariant(
                     $type,
                     $image[$fields['url']],
@@ -158,7 +158,7 @@ class PixabayDriver extends AbstractDriver
         $variants = [];
 
         foreach ($videos as $type => $file) {
-            if (!empty($file['url'])) {
+            if (! empty($file['url'])) {
                 $variants[] = new MediaVariant(
                     $type,
                     $file['url'],
@@ -194,11 +194,11 @@ class PixabayDriver extends AbstractDriver
         $priority = ['large', 'medium', 'small', 'tiny'];
 
         foreach ($priority as $size) {
-            if (!empty($videos[$size]['url'])) {
+            if (! empty($videos[$size]['url'])) {
                 return $videos[$size];
             }
         }
 
-        return array_values(array_filter($videos, fn ($v) => !empty($v['url'])))[0] ?? [];
+        return array_values(array_filter($videos, fn ($v) => ! empty($v['url'])))[0] ?? [];
     }
 }

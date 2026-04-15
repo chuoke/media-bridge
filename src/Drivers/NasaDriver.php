@@ -75,12 +75,12 @@ class NasaDriver extends AbstractDriver
         $data = $item['data'][0] ?? null;
         $links = $item['links'] ?? [];
 
-        if (!$data) {
+        if (! $data) {
             return null;
         }
 
         $nasaId = $data['nasa_id'] ?? null;
-        if (!$nasaId) {
+        if (! $nasaId) {
             return null;
         }
 
@@ -89,18 +89,18 @@ class NasaDriver extends AbstractDriver
         foreach ($links as $link) {
             $rel = $link['rel'] ?? 'preview';
             $href = $link['href'] ?? '';
-            if ($rel === 'preview' && !$thumbUrl) {
+            if ($rel === 'preview' && ! $thumbUrl) {
                 $thumbUrl = $href;
             }
             if ($rel === 'captions') {
                 continue;
             }
-            if (!$url && $href) {
+            if (! $url && $href) {
                 $url = $href;
             }
         }
 
-        if (!$url) {
+        if (! $url) {
             $url = $thumbUrl;
         }
 
@@ -233,7 +233,7 @@ class NasaDriver extends AbstractDriver
 
     private function assetVariant(string $asset): ?MediaVariant
     {
-        if (!preg_match('/~([a-z0-9_]+)\.[a-z0-9]+$/i', $asset, $m)) {
+        if (! preg_match('/~([a-z0-9_]+)\.[a-z0-9]+$/i', $asset, $m)) {
             return null;
         }
 

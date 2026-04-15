@@ -119,7 +119,7 @@ class PexelsDriver extends AbstractDriver
         $variants = [];
 
         foreach (['original', 'large2x', 'large', 'medium', 'small', 'portrait', 'landscape', 'tiny'] as $type) {
-            if (!empty($src[$type])) {
+            if (! empty($src[$type])) {
                 $variants[] = new MediaVariant($type, $src[$type]);
             }
         }

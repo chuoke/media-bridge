@@ -128,12 +128,12 @@ class BingDriver extends AbstractDriver
         $baseUri = rtrim($this->baseUri(), '/');
 
         $imageUrl = $image['url'] ?? '';
-        if ($imageUrl && !str_starts_with($imageUrl, 'http')) {
+        if ($imageUrl && ! str_starts_with($imageUrl, 'http')) {
             $imageUrl = $baseUri . '/' . ltrim($imageUrl, '/');
         }
 
         $copyrightLink = $image['copyrightlink'] ?? '';
-        if ($copyrightLink && !str_starts_with($copyrightLink, 'http')) {
+        if ($copyrightLink && ! str_starts_with($copyrightLink, 'http')) {
             $copyrightLink = $baseUri . '/' . ltrim($copyrightLink, '/');
         }
 
@@ -157,7 +157,7 @@ class BingDriver extends AbstractDriver
         ];
 
         $displayDate = null;
-        if (!empty($image['startdate']) && strlen($image['startdate']) === 8) {
+        if (! empty($image['startdate']) && strlen($image['startdate']) === 8) {
             $displayDate = substr($image['startdate'], 0, 4) . '-'
                 . substr($image['startdate'], 4, 2) . '-'
                 . substr($image['startdate'], 6, 2);

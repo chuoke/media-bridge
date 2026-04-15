@@ -80,8 +80,7 @@ trait HttpClientTrait
         $baseUri = $this->baseUri();
         $headers = $this->defaultHeaders();
 
-        return new class($baseUri, $headers)
-        {
+        return new class ($baseUri, $headers) {
             public function __construct(
                 private readonly string $baseUri,
                 private readonly array $headers,

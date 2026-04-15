@@ -19,8 +19,7 @@ function fakeHttpClient(array $responses): Client
 
 function fakeDriver(Client $client): AbstractDriver
 {
-    return new class($client) extends AbstractDriver
-    {
+    return new class ($client) extends AbstractDriver {
         protected string $baseUri = 'https://example.test/';
 
         public function __construct(Client $client)

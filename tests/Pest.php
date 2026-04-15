@@ -1,9 +1,9 @@
 <?php
 
+use Chuoke\MediaBridge\MediaManager;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
-use Chuoke\MediaBridge\MediaManager;
 use Psr\Http\Message\ResponseInterface;
 
 function mediaManager(): MediaManager

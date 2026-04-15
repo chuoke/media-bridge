@@ -72,7 +72,7 @@ class MediaManager
 
         $method = 'create' . ucfirst($name) . 'Driver';
 
-        if (!method_exists($this, $method)) {
+        if (! method_exists($this, $method)) {
             throw new InvalidArgumentException("Driver [{$name}] is not supported.");
         }
 

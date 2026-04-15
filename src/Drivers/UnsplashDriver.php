@@ -118,7 +118,7 @@ class UnsplashDriver extends AbstractDriver
         $variants = [];
 
         foreach (['raw', 'full', 'regular', 'small', 'thumb', 'small_s3'] as $type) {
-            if (!empty($urls[$type])) {
+            if (! empty($urls[$type])) {
                 $variants[] = new MediaVariant($type, $urls[$type]);
             }
         }
@@ -148,7 +148,7 @@ class UnsplashDriver extends AbstractDriver
 
     private function toIso6391(string $locale): string
     {
-        if (!$locale) {
+        if (! $locale) {
             return '';
         }
         $pos = strpos($locale, '-');
