@@ -1,0 +1,986 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "gsroffset": 10,
+        "continue": "gsroffset||"
+    },
+    "query": {
+        "pages": {
+            "32852995": {
+                "pageid": 32852995,
+                "ns": 6,
+                "title": "File:AND EACH FIGURE HAD A MEANING - from The Story of Hiawatha, Adapted from Longfellow by Winston Stokes and Henry Wadsworth Longfellow - Illustrator M. L. Kirk - 1910.jpg",
+                "index": 7,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Csemerick",
+                        "size": 149677,
+                        "width": 358,
+                        "height": 500,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/79/AND_EACH_FIGURE_HAD_A_MEANING_-_from_The_Story_of_Hiawatha%2C_Adapted_from_Longfellow_by_Winston_Stokes_and_Henry_Wadsworth_Longfellow_-_Illustrator_M._L._Kirk_-_1910.jpg",
+                        "thumbwidth": 358,
+                        "thumbheight": 500,
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/AND_EACH_FIGURE_HAD_A_MEANING_-_from_The_Story_of_Hiawatha%2C_Adapted_from_Longfellow_by_Winston_Stokes_and_Henry_Wadsworth_Longfellow_-_Illustrator_M._L._Kirk_-_1910.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:AND_EACH_FIGURE_HAD_A_MEANING_-_from_The_Story_of_Hiawatha,_Adapted_from_Longfellow_by_Winston_Stokes_and_Henry_Wadsworth_Longfellow_-_Illustrator_M._L._Kirk_-_1910.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32852995",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2014-05-19 05:58:15",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "AND EACH FIGURE HAD A MEANING - from The Story of Hiawatha, Adapted from Longfellow by Winston Stokes and Henry Wadsworth Longfellow - Illustrator M. L. Kirk - 1910",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|PD US|The Story of Hiawatha, Adapted from Longfellow by Winston Stokes and Henry Wadsworth Longfellow (1910)|Painting in art",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "AND EACH FIGURE HAD A MEANING - from The Story of Hiawatha, Adapted from Longfellow by Winston Stokes and Henry Wadsworth Longfellow - Illustrator M. L. Kirk - 1910",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2014-05-19 01:21:15",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.gutenberg.org/files/31926/31926-h/31926-h.htm\">http://www.gutenberg.org/files/31926/31926-h/31926-h.htm</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Maria_Louise_Kirk\" class=\"extiw\" title=\"w:en:Maria Louise Kirk\"><span title=\"American illustrator (1860-1938)\">Maria Louise Kirk</span></a></bdi>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "12801052": {
+                "pageid": 12801052,
+                "ns": 6,
+                "title": "File:Chart to illustrate meaning of contribute diagram.png",
+                "index": 2,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Cmdrjameson",
+                        "size": 86504,
+                        "width": 743,
+                        "height": 296,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chart_to_illustrate_meaning_of_contribute_diagram.png/500px-Chart_to_illustrate_meaning_of_contribute_diagram.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 159,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/5/59/Chart_to_illustrate_meaning_of_contribute_diagram.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Chart_to_illustrate_meaning_of_contribute_diagram.png",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chart_to_illustrate_meaning_of_contribute_diagram.png",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12801052",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2016-09-25 19:44:21",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Chart to illustrate meaning of contribute diagram",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|Self-published work|PD-self",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "chart to illustrate meaning of contribute",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2011-01-25",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://bubbl.us/\">https://bubbl.us/</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dhurst&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dhurst (page does not exist)\">Dhurst</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "10210014": {
+                "pageid": 10210014,
+                "ns": 6,
+                "title": "File:Geometric meaning of prime1.jpg",
+                "index": 3,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Wmheric",
+                        "size": 19266,
+                        "width": 333,
+                        "height": 220,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Geometric_meaning_of_prime1.jpg",
+                        "thumbwidth": 333,
+                        "thumbheight": 220,
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Geometric_meaning_of_prime1.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geometric_meaning_of_prime1.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10210014",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2010-05-01 07:40:21",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Geometric meaning of prime1",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|PD-user|Elementary geometry|JPG images that should use vector graphics|Math images that should use vector graphics",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "This is just a picture to make visualization easier that goes with High School Mathematics Extensions/Primes/text<br>\nI made this myself. 05:30, 22 October 2009 (UTC)",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2009-10-21",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "Home made / own work",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Arian Prabowo ArielGenesis",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "15669728": {
+                "pageid": 15669728,
+                "ns": 6,
+                "title": "File:Meaningtext1.gif",
+                "index": 9,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Davidjamesbeck",
+                        "size": 2657,
+                        "width": 501,
+                        "height": 104,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Meaningtext1.gif/500px-Meaningtext1.gif",
+                        "thumbwidth": 400,
+                        "thumbheight": 83,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Meaningtext1.gif"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Meaningtext1.gif",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Meaningtext1.gif",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15669728",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2011-07-01 05:02:51",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Meaningtext1",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|Semiotics|Self-published work|PD-self|Schools of linguistics",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "A diagram of the structure of Meaning-Text Theory.",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "1996",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.neuvel.net/meaningtext.htm\">http://www.neuvel.net/meaningtext.htm</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "David Beck",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "107357768": {
+                "pageid": 107357768,
+                "ns": 6,
+                "title": "File:The Human Predicament Levels of Meaning Chart.png",
+                "index": 5,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Yitzilitt",
+                        "size": 34865,
+                        "width": 786,
+                        "height": 494,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Human_Predicament_Levels_of_Meaning_Chart.png/500px-The_Human_Predicament_Levels_of_Meaning_Chart.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 251,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Human_Predicament_Levels_of_Meaning_Chart.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Human_Predicament_Levels_of_Meaning_Chart.png",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Human_Predicament_Levels_of_Meaning_Chart.png",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107357768",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2021-07-09 00:45:09",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "The Human Predicament Levels of Meaning Chart",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Nihilism|Meaning of life|Self-published work",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Perspectives from which life can be judged to have or lack meaning.\n<p>Adopted from Figure 2.1 in The Human Predicament, by David Benatar.\n</p>\nSpecial thanks to VonSmore for the help in making this!",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2021-07-08",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yitzilitt\" title=\"User:Yitzilitt\">Yitz</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "93532379": {
+                "pageid": 93532379,
+                "ns": 6,
+                "title": "File:The V.jpg",
+                "index": 8,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Qreata",
+                        "size": 29434,
+                        "width": 1040,
+                        "height": 1098,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_V.jpg/500px-The_V.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 422,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_V.jpg/960px-The_V.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_V.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_V.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93532379",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2020-08-26 07:42:39",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "The V",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|Meaning of life|Self-published work|JPG symbols",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "The Vee is a symbol for everything that brings the best in the the \"V\" in people 's lives. Lo - 'V\" -e and 'V\"- ictor. Valorous , Vainglorious, Valiant, Vast.",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2020-08-26",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Qreata&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Qreata (page does not exist)\">Brian Bosire</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "21882280": {
+                "pageid": 21882280,
+                "ns": 6,
+                "title": "File:The meaning of NAIRA.jpg",
+                "index": 1,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Patcedars",
+                        "size": 24109,
+                        "width": 590,
+                        "height": 382,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/The_meaning_of_NAIRA.jpg/500px-The_meaning_of_NAIRA.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 259,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_meaning_of_NAIRA.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_meaning_of_NAIRA.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_meaning_of_NAIRA.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21882280",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2012-10-03 06:56:36",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "The meaning of NAIRA",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|PD-author|Uploaded with en.wp upload wizard|Unidentified logos of Nigeria",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "This is an image showing the full meaning of NAIRA",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "Nairalander",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Nigeria",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "History",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "24941418": {
+                "pageid": 24941418,
+                "ns": 6,
+                "title": "File:The meaning of life (94637912).jpg",
+                "index": 6,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "File Upload Bot (Magnus Manske)",
+                        "size": 582388,
+                        "width": 1280,
+                        "height": 960,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_meaning_of_life_%2894637912%29.jpg/500px-The_meaning_of_life_%2894637912%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 300,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_meaning_of_life_%2894637912%29.jpg/960px-The_meaning_of_life_%2894637912%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/The_meaning_of_life_%2894637912%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_meaning_of_life_(94637912).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24941418",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2013-03-02 09:50:30",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "The meaning of life (94637912)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Woodhouse Moor|Paella|Meaning (philosophy of language)|Orange (colour)|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by File Upload Bot (Magnus Manske)|Flickr images missing SDC creator|Photos by Paul Holloway|Files with coordinates missing SDC location of creation (53° N, 2° W)|Paella (text)",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "GPSLatitude": {
+                                "value": "53.810838",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSLongitude": {
+                                "value": "-1.560852",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSMapDatum": {
+                                "value": "WGS-84",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "The meaning of life",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2004-08-07 14:02",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/paulholloway/94637912/\">The meaning of life</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a></li></ul>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/96413675@N00\">Paul Holloway</a> from Birmingham, United Kingdom",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 2.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 2.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-2.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "32187852": {
+                "pageid": 32187852,
+                "ns": 6,
+                "title": "File:The other meaning of 'Open' (2981016435).jpg",
+                "index": 4,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Ziad",
+                        "size": 108079,
+                        "width": 1470,
+                        "height": 1178,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_other_meaning_of_%27Open%27_%282981016435%29.jpg/500px-The_other_meaning_of_%27Open%27_%282981016435%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 321,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_other_meaning_of_%27Open%27_%282981016435%29.jpg/960px-The_other_meaning_of_%27Open%27_%282981016435%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_other_meaning_of_%27Open%27_%282981016435%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_other_meaning_of_%27Open%27_(2981016435).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32187852",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2014-04-15 05:25:06",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "The other meaning of 'Open' (2981016435)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|Riyadh|Flickr images reviewed by FlickreviewR|Taken with Nokia E65|Photographs by Peter Dowley",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Shop opening hours were very difficult to work out during Ramadan; this was clearly a challenge for staff as well as customers.",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2008-09-28 17:10",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pedronet/2981016435/\">The other meaning of 'Open'</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40271931@N00\">Peter Dowley</a> from Dubai, United Arab Emirates",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 2.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 2.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/2.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-2.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "37386057": {
+                "pageid": 37386057,
+                "ns": 6,
+                "title": "File:Vcspoken.png",
+                "index": 10,
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Spaynton",
+                        "size": 121082,
+                        "width": 496,
+                        "height": 368,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vcspoken.png",
+                        "thumbwidth": 496,
+                        "thumbheight": 368,
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vcspoken.png",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vcspoken.png",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37386057",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2014-12-19 19:35:23",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Vcspoken",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Meaning (philosophy of language)|Self-published work",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "vcspoken",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2014-12-19",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Spaynton&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Spaynton (page does not exist)\">Spaynton</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

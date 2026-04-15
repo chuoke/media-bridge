@@ -1,0 +1,1036 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "gaicontinue": "20260410041703|James_R._Howard's_Civil_War_pension_claim_documents,_Fergus_Falls,_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_(page_5).jpg",
+        "continue": "gaicontinue||"
+    },
+    "query": {
+        "pages": {
+            "188613391": {
+                "pageid": 188613391,
+                "ns": 6,
+                "title": "File:James R. Howard's Civil War pension claim documents, Fergus Falls, Minnesota - DPLA - 9a951be0f052a138dc32e60495038ac8 (page 6).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 1156704,
+                        "width": 2118,
+                        "height": 4458,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/James_R._Howard%27s_Civil_War_pension_claim_documents%2C_Fergus_Falls%2C_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_%28page_6%29.jpg/500px-James_R._Howard%27s_Civil_War_pension_claim_documents%2C_Fergus_Falls%2C_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_%28page_6%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 842,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/James_R._Howard%27s_Civil_War_pension_claim_documents%2C_Fergus_Falls%2C_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_%28page_6%29.jpg/960px-James_R._Howard%27s_Civil_War_pension_claim_documents%2C_Fergus_Falls%2C_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_%28page_6%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/James_R._Howard%27s_Civil_War_pension_claim_documents%2C_Fergus_Falls%2C_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_%28page_6%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_R._Howard%27s_Civil_War_pension_claim_documents,_Fergus_Falls,_Minnesota_-_DPLA_-_9a951be0f052a138dc32e60495038ac8_(page_6).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613391",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:06",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nJames R. Howard's Civil War pension claim documents, Fergus Falls, Minnesota</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Information field template with formatting|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator|Media contributed by the Minnesota Digital Library|Media contributed by Minnesota State University Moorhead",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Artist": {
+                                "value": "Comstock, Solomon G., 1842-1933; Harker, Juliet",
+                                "source": "commons-desc-page"
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nContains an information sheet and letters to and from Julia Harker on behalf of her late husband James R. Howard's Civil War pension claim.</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://en.wikipedia.org/wiki/en:Minnesota_State_University_Moorhead\" class=\"extiw\" title=\"w:en:Minnesota State University Moorhead\"><span title=\"university in Moorhead, Minnesota\">Minnesota State University Moorhead</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://reflections.mndigital.org/catalog/mhd:8040#\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/9a951be0f052a138dc32e60495038ac8\">9a951be0f052a138dc32e60495038ac8</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613383": {
+                "pageid": 188613383,
+                "ns": 6,
+                "title": "File:Mapillary (osmplus org) 2025-07-04 11H58M46S416 (2124152414677754 at dxsL2wnKNka4Vy1iHWopjP).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "PantheraLeo1359531",
+                        "size": 1218310,
+                        "width": 5760,
+                        "height": 2880,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mapillary_%28osmplus_org%29_2025-07-04_11H58M46S416_%282124152414677754_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/500px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M46S416_%282124152414677754_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 200,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mapillary_%28osmplus_org%29_2025-07-04_11H58M46S416_%282124152414677754_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/960px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M46S416_%282124152414677754_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mapillary_%28osmplus_org%29_2025-07-04_11H58M46S416_%282124152414677754_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M46S416_(2124152414677754_at_dxsL2wnKNka4Vy1iHWopjP).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613383",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:03",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Mapillary (osmplus org) 2025-07-04 11H58M46S416 (2124152414677754 at dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "360° panoramas|Images from Mapillary|Files with coordinates missing SDC location of creation (51° N, 9° E)|Files from Mapillary uploaded by PantheraLeo1359531|Images from Mapillary uploaded with Curator|Photographs of Germany from Mapillary (dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "GPSLatitude": {
+                                "value": "51.588947",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSLongitude": {
+                                "value": "9.908824",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSMapDatum": {
+                                "value": "WGS-84",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Photo from Mapillary <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M46S416_(2124152414677754_at_dxsL2wnKNka4Vy1iHWopjP).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "Taken on 4 July 2025, 11:58:46",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mapillary.com/app/?pKey=2124152414677754\">This file</a> comes from <b><a rel=\"nofollow\" class=\"external text\" href=\"https://mapillary.com\">Mapillary</a></b>, a service for sharing geotagged photos. All photos are under a CC BY-SA 4.0 license meaning the individual photographer must be credited for each image.",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "osmplus_org <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M46S416_(2124152414677754_at_dxsL2wnKNka4Vy1iHWopjP).jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613382": {
+                "pageid": 188613382,
+                "ns": 6,
+                "title": "File:Mapillary (osmplus org) 2025-07-04 11H58M47S375 (1998501357221574 at dxsL2wnKNka4Vy1iHWopjP).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "PantheraLeo1359531",
+                        "size": 1318001,
+                        "width": 5760,
+                        "height": 2880,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S375_%281998501357221574_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/500px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S375_%281998501357221574_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 200,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S375_%281998501357221574_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/960px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S375_%281998501357221574_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S375_%281998501357221574_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S375_(1998501357221574_at_dxsL2wnKNka4Vy1iHWopjP).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613382",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:03",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Mapillary (osmplus org) 2025-07-04 11H58M47S375 (1998501357221574 at dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "360° panoramas|Images from Mapillary|Files with coordinates missing SDC location of creation (51° N, 9° E)|Files from Mapillary uploaded by PantheraLeo1359531|Images from Mapillary uploaded with Curator|Photographs of Germany from Mapillary (dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "GPSLatitude": {
+                                "value": "51.588924",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSLongitude": {
+                                "value": "9.908845",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSMapDatum": {
+                                "value": "WGS-84",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Photo from Mapillary <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S375_(1998501357221574_at_dxsL2wnKNka4Vy1iHWopjP).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "Taken on 4 July 2025, 11:58:47",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mapillary.com/app/?pKey=1998501357221574\">This file</a> comes from <b><a rel=\"nofollow\" class=\"external text\" href=\"https://mapillary.com\">Mapillary</a></b>, a service for sharing geotagged photos. All photos are under a CC BY-SA 4.0 license meaning the individual photographer must be credited for each image.",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "osmplus_org <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S375_(1998501357221574_at_dxsL2wnKNka4Vy1iHWopjP).jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613386": {
+                "pageid": 188613386,
+                "ns": 6,
+                "title": "File:Mapillary (osmplus org) 2025-07-04 11H58M47S416 (1257573879368570 at dxsL2wnKNka4Vy1iHWopjP).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "PantheraLeo1359531",
+                        "size": 1228800,
+                        "width": 5760,
+                        "height": 2880,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S416_%281257573879368570_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/500px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S416_%281257573879368570_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 200,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S416_%281257573879368570_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/960px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S416_%281257573879368570_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mapillary_%28osmplus_org%29_2025-07-04_11H58M47S416_%281257573879368570_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S416_(1257573879368570_at_dxsL2wnKNka4Vy1iHWopjP).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613386",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:04",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Mapillary (osmplus org) 2025-07-04 11H58M47S416 (1257573879368570 at dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "360° panoramas|Images from Mapillary|Files with coordinates missing SDC location of creation (51° N, 9° E)|Files from Mapillary uploaded by PantheraLeo1359531|Images from Mapillary uploaded with Curator|Photographs of Germany from Mapillary (dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "GPSLatitude": {
+                                "value": "51.588740",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSLongitude": {
+                                "value": "9.909009",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSMapDatum": {
+                                "value": "WGS-84",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Photo from Mapillary <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S416_(1257573879368570_at_dxsL2wnKNka4Vy1iHWopjP).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "Taken on 4 July 2025, 11:58:47",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mapillary.com/app/?pKey=1257573879368570\">This file</a> comes from <b><a rel=\"nofollow\" class=\"external text\" href=\"https://mapillary.com\">Mapillary</a></b>, a service for sharing geotagged photos. All photos are under a CC BY-SA 4.0 license meaning the individual photographer must be credited for each image.",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "osmplus_org <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M47S416_(1257573879368570_at_dxsL2wnKNka4Vy1iHWopjP).jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613387": {
+                "pageid": 188613387,
+                "ns": 6,
+                "title": "File:Net oda to medical research, Europe, 2023.svg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Doc James",
+                        "size": 160849,
+                        "width": 850,
+                        "height": 691,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Net_oda_to_medical_research%2C_Europe%2C_2023.svg/500px-Net_oda_to_medical_research%2C_Europe%2C_2023.svg.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 325,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Net_oda_to_medical_research%2C_Europe%2C_2023.svg/960px-Net_oda_to_medical_research%2C_Europe%2C_2023.svg.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Net_oda_to_medical_research%2C_Europe%2C_2023.svg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Net_oda_to_medical_research,_Europe,_2023.svg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613387",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:05",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Net oda to medical research, Europe, 2023",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Maps showing 2023|2023 maps of Europe|SVG maps by Our World in Data|Uploaded by OWID importer tool",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Net official development assistance to medical research and basic health sectors, Europe",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2023",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ourworldindata.org/grapher/net-oda-to-medical-research\">https://ourworldindata.org/grapher/net-oda-to-medical-research</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Our World In Data",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "\"License: All of Our World in Data is completely open access and all work is licensed under the Creative Commons BY license. You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.\"",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613389": {
+                "pageid": 188613389,
+                "ns": 6,
+                "title": "File:Net oda to medical research, South America, 2022.svg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Doc James",
+                        "size": 151164,
+                        "width": 850,
+                        "height": 691,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Net_oda_to_medical_research%2C_South_America%2C_2022.svg/500px-Net_oda_to_medical_research%2C_South_America%2C_2022.svg.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 325,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Net_oda_to_medical_research%2C_South_America%2C_2022.svg/960px-Net_oda_to_medical_research%2C_South_America%2C_2022.svg.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Net_oda_to_medical_research%2C_South_America%2C_2022.svg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Net_oda_to_medical_research,_South_America,_2022.svg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613389",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:06",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Net oda to medical research, South America, 2022",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Maps showing 2022|2022 maps of South America|SVG maps by Our World in Data|Uploaded by OWID importer tool",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Net official development assistance to medical research and basic health sectors, South America",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2022",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ourworldindata.org/grapher/net-oda-to-medical-research\">https://ourworldindata.org/grapher/net-oda-to-medical-research</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Our World In Data",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "\"License: All of Our World in Data is completely open access and all work is licensed under the Creative Commons BY license. You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.\"",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613390": {
+                "pageid": 188613390,
+                "ns": 6,
+                "title": "File:Poverty share on less than 30 per day, Oceania, 1996.svg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Doc James",
+                        "size": 153978,
+                        "width": 850,
+                        "height": 774,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_1996.svg/500px-Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_1996.svg.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 364,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_1996.svg/960px-Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_1996.svg.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_1996.svg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Poverty_share_on_less_than_30_per_day,_Oceania,_1996.svg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613390",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:06",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Poverty share on less than 30 per day, Oceania, 1996",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|1996 maps of Oceania|Maps showing 1996|SVG maps by Our World in Data|Uploaded by OWID importer tool",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Poverty: Share of population living on less than $30 a day, Oceania",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "1996",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ourworldindata.org/grapher/poverty-share-on-less-than-30-per-day\">https://ourworldindata.org/grapher/poverty-share-on-less-than-30-per-day</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Our World In Data",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "\"License: All of Our World in Data is completely open access and all work is licensed under the Creative Commons BY license. You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.\"",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613384": {
+                "pageid": 188613384,
+                "ns": 6,
+                "title": "File:The Abilene Morning News (Abilene, Tex.), Vol. 2, No. 14, Ed. 1 Friday, September 16, 1927 - DPLA - 18acbd0f10b9aab20782ee62ffe81f17 (page 11).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 542659,
+                        "width": 1500,
+                        "height": 1881,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_11%29.jpg/500px-The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_11%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 502,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_11%29.jpg/960px-The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_11%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_11%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Abilene_Morning_News_(Abilene,_Tex.),_Vol._2,_No._14,_Ed._1_Friday,_September_16,_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_(page_11).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613384",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:03",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nThe Abilene Morning News (Abilene, Tex.), Vol. 2, No. 14, Ed. 1 Friday, September 16, 1927</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Files with no machine-readable author|Media contributed by the Digital Public Library of America|Media contributed by Abilene Public Library|Artworks without Wikidata item|Media contributed by The Portal to Texas History|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDaily newspaper from Abilene, Texas that includes local, state, and national news along with advertising.; twelve pages : ill. ; page 21 x 16 in. Digitized from 35 mm. microfilm.</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "16 September 1927<div style=\"display: none;\">date QS:P571,+1927-09-16T00:00:00Z/11</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://www.wikidata.org/wiki/Q69491632\" class=\"extiw\" title=\"d:Q69491632\"><span title=\"public library system in Texas, USA\">Abilene Public Library</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/18acbd0f10b9aab20782ee62ffe81f17\">18acbd0f10b9aab20782ee62ffe81f17</a></li>\n<li>Abilene Public Library identifier: <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/</a>; sn86089656; 14398870; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/small/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/small/</a>; ark:/67531/metapth1740965; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/manifest/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/manifest/</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613388": {
+                "pageid": 188613388,
+                "ns": 6,
+                "title": "File:The Abilene Morning News (Abilene, Tex.), Vol. 2, No. 14, Ed. 1 Friday, September 16, 1927 - DPLA - 18acbd0f10b9aab20782ee62ffe81f17 (page 12).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 506354,
+                        "width": 1500,
+                        "height": 1882,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_12%29.jpg/500px-The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_12%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 502,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_12%29.jpg/960px-The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_12%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Abilene_Morning_News_%28Abilene%2C_Tex.%29%2C_Vol._2%2C_No._14%2C_Ed._1_Friday%2C_September_16%2C_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_%28page_12%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Abilene_Morning_News_(Abilene,_Tex.),_Vol._2,_No._14,_Ed._1_Friday,_September_16,_1927_-_DPLA_-_18acbd0f10b9aab20782ee62ffe81f17_(page_12).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613388",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:05",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nThe Abilene Morning News (Abilene, Tex.), Vol. 2, No. 14, Ed. 1 Friday, September 16, 1927</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Files with no machine-readable author|Media contributed by the Digital Public Library of America|Media contributed by Abilene Public Library|Artworks without Wikidata item|Media contributed by The Portal to Texas History|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDaily newspaper from Abilene, Texas that includes local, state, and national news along with advertising.; twelve pages : ill. ; page 21 x 16 in. Digitized from 35 mm. microfilm.</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "16 September 1927<div style=\"display: none;\">date QS:P571,+1927-09-16T00:00:00Z/11</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://www.wikidata.org/wiki/Q69491632\" class=\"extiw\" title=\"d:Q69491632\"><span title=\"public library system in Texas, USA\">Abilene Public Library</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/18acbd0f10b9aab20782ee62ffe81f17\">18acbd0f10b9aab20782ee62ffe81f17</a></li>\n<li>Abilene Public Library identifier: <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/</a>; sn86089656; 14398870; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/small/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/small/</a>; ark:/67531/metapth1740965; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth1740965/manifest/\">https://texashistory.unt.edu/ark:/67531/metapth1740965/manifest/</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613381": {
+                "pageid": 188613381,
+                "ns": 6,
+                "title": "File:Volledig Exterieur van Woonhuizen aan Hearedyk, 24-06-1991, signatuur 61835.jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Mr.Nostalgic",
+                        "size": 2565607,
+                        "width": 5194,
+                        "height": 3425,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk%2C_24-06-1991%2C_signatuur_61835.jpg/500px-Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk%2C_24-06-1991%2C_signatuur_61835.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 264,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk%2C_24-06-1991%2C_signatuur_61835.jpg/960px-Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk%2C_24-06-1991%2C_signatuur_61835.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk%2C_24-06-1991%2C_signatuur_61835.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Volledig_Exterieur_van_Woonhuizen_aan_Hearedyk,_24-06-1991,_signatuur_61835.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613381",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:17:03",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Volledig Exterieur van Woonhuizen aan Hearedyk, 24-06-1991, signatuur 61835",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Diapositives in Tresoar",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "<br>Volledig Exterieur van Woonhuizen aan Hearedyk <br>Itens: Hearedyk 44 en 46: Woonhuis: volledig (exterieur).<br><b>Collectienaam: </b>Monumenten inventarisatie Project (MIP)<br><b>Objecttype: </b>dia<br><b>Onderwerp (trefwoord): </b>gebouwen • stads- en dorpsgezicht<br><b>Afgebeelde of gerelateerde plaats: </b>Itens • Itens<br><b>Uitgever: </b>Provincie Fryslân<br><b>Straat en huisnummer: </b>Hearedyk, 44 en 46<br><b>Postcode: </b>8735HS<br><b>Creatiedatum: </b>24-06-1991<br><b>Formaat: </b>2,3 x 3,4<br><b>Eerder nummer of signatuur: </b>61835<br><b>Archiefnummer: </b>1875<br><b>Volgnummer-Onderdeel: </b>9142<br><b>Auteursrechtbepaling: </b>CC0 1.0<br><b>Beheerder collectie: </b>Tresoar<br><b>GUID: </b>03b616f7-3198-4486-a76b-b929775a1b69",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "24-06-1991",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://tresoar.nl/zoeken/collectie/03b616f7-3198-4486-a76b-b929775a1b69\">Tresoar</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Unknown",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Zero, Public Domain Dedication",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

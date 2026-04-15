@@ -1,0 +1,961 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "gaicontinue": "20260410041448|Net_oda_to_medical_research,_World,_2022.svg",
+        "continue": "gaicontinue||"
+    },
+    "query": {
+        "pages": {
+            "-1": {
+                "ns": 6,
+                "title": "File:Bulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910 - DPLA - 9a864bbb3a34b7daa2bcc8b7e74b2639 (page 6).jpg",
+                "missing": "",
+                "known": "",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 535554,
+                        "width": 1928,
+                        "height": 2993,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_6%29.jpg/500px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_6%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 621,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_6%29.jpg/960px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_6%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_6%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_of_the_State_Normal_School_Duluth,_Minnesota_Commencement_Number,_Vol._V_No._2,_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_(page_6).jpg",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:53",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Bulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910 - DPLA - 9a864bbb3a34b7daa2bcc8b7e74b2639 (page 6)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613123": {
+                "pageid": 188613123,
+                "ns": 6,
+                "title": "File:3510251 se 13 060 20180912.tif",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "PantheraLeo1359531",
+                        "size": 394536689,
+                        "width": 10270,
+                        "height": 12290,
+                        "pagecount": 6,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/3510251_se_13_060_20180912.tif/lossless-page1-500px-3510251_se_13_060_20180912.tif.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 479,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/3510251_se_13_060_20180912.tif/lossless-page1-960px-3510251_se_13_060_20180912.tif.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/3510251_se_13_060_20180912.tif",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:3510251_se_13_060_20180912.tif",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613123",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:50",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "3510251 se 13 060 20180912",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Uploaded with OpenRefine|PD USDA|PD US NOAA|PD-USGov missing SDC copyright status|Files uploaded by PantheraLeo1359531|Images from NOAA uploaded by PantheraLeo1359531|Files from USDA uploaded by PantheraLeo1359531|Files uploaded with OpenRefine by PantheraLeo1359531|Orthophotos uploaded by PantheraLeo1359531|2018 USDA NAIP 4-Band 8 Bit Imagery: Texas",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Luftaufnahmen von Texas 2018 über das NAIP des USDA.",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "Published on 31 October 2021",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<ul><li><a rel=\"nofollow\" class=\"external free\" href=\"https://coastalimagery.blob.core.windows.net/digitalcoast/TX_NAIP_2017_9362/index.html\">https://coastalimagery.blob.core.windows.net/digitalcoast/TX_NAIP_2017_9362/index.html</a></li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"https://www.fisheries.noaa.gov/inport/item/65818\">https://www.fisheries.noaa.gov/inport/item/65818</a></li>\n<li>see also: <a rel=\"nofollow\" class=\"external free\" href=\"https://catalog.data.gov/dataset/national-agriculture-imagery-program-naip-imagery\">https://catalog.data.gov/dataset/national-agriculture-imagery-program-naip-imagery</a></li></ul>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613122": {
+                "pageid": 188613122,
+                "ns": 6,
+                "title": "File:Bulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910 - DPLA - 9a864bbb3a34b7daa2bcc8b7e74b2639 (page 4).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 1350494,
+                        "width": 3883,
+                        "height": 2966,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_4%29.jpg/500px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_4%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 306,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_4%29.jpg/960px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_4%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_4%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_of_the_State_Normal_School_Duluth,_Minnesota_Commencement_Number,_Vol._V_No._2,_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_(page_4).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613122",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:49",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nBulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Information field template with formatting|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator|Media contributed by the Minnesota Digital Library|Media contributed by University of Minnesota Duluth",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Artist": {
+                                "value": "State Normal School Duluth, Minnesota",
+                                "source": "commons-desc-page"
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDuluth State Normal School quarterly bulletin. The August 1910 issue includes the text of the Commencement Sermon by George Gebauer, description of commencement week activities, school news, list of alumnae including the class of 1910, and a photograph of the graduating class of 1910. There are a few photographs of selected campus buildings. The State Normal School, founded in 1895, and registered its first students in September, 1902, changed names several times: State Normal School at Duluth (1895), Duluth State Normal School (1905), Duluth State Teachers College (1921), University of Minnesota, Duluth Branch (1947), University of Minnesota Duluth (1959)</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "August 1910<div style=\"display: none;\">date QS:P571,+1910-08-00T00:00:00Z/10</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://en.wikipedia.org/wiki/en:University_of_Minnesota_Duluth\" class=\"extiw\" title=\"w:en:University of Minnesota Duluth\"><span title=\"public university in Duluth, Minnesota\">University of Minnesota Duluth</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://reflections.mndigital.org/catalog/umd:2589#\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/9a864bbb3a34b7daa2bcc8b7e74b2639\">9a864bbb3a34b7daa2bcc8b7e74b2639</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613127": {
+                "pageid": 188613127,
+                "ns": 6,
+                "title": "File:Bulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910 - DPLA - 9a864bbb3a34b7daa2bcc8b7e74b2639 (page 5).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 556879,
+                        "width": 1982,
+                        "height": 2966,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_5%29.jpg/500px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_5%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 599,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_5%29.jpg/960px-Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_5%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bulletin_of_the_State_Normal_School_Duluth%2C_Minnesota_Commencement_Number%2C_Vol._V_No._2%2C_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_%28page_5%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_of_the_State_Normal_School_Duluth,_Minnesota_Commencement_Number,_Vol._V_No._2,_August_1910_-_DPLA_-_9a864bbb3a34b7daa2bcc8b7e74b2639_(page_5).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613127",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:51",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nBulletin of the State Normal School Duluth, Minnesota Commencement Number, Vol. V No. 2, August 1910</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Information field template with formatting|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator|Media contributed by the Minnesota Digital Library|Media contributed by University of Minnesota Duluth",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Artist": {
+                                "value": "State Normal School Duluth, Minnesota",
+                                "source": "commons-desc-page"
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDuluth State Normal School quarterly bulletin. The August 1910 issue includes the text of the Commencement Sermon by George Gebauer, description of commencement week activities, school news, list of alumnae including the class of 1910, and a photograph of the graduating class of 1910. There are a few photographs of selected campus buildings. The State Normal School, founded in 1895, and registered its first students in September, 1902, changed names several times: State Normal School at Duluth (1895), Duluth State Normal School (1905), Duluth State Teachers College (1921), University of Minnesota, Duluth Branch (1947), University of Minnesota Duluth (1959)</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "August 1910<div style=\"display: none;\">date QS:P571,+1910-08-00T00:00:00Z/10</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://en.wikipedia.org/wiki/en:University_of_Minnesota_Duluth\" class=\"extiw\" title=\"w:en:University of Minnesota Duluth\"><span title=\"public university in Duluth, Minnesota\">University of Minnesota Duluth</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://reflections.mndigital.org/catalog/umd:2589#\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/9a864bbb3a34b7daa2bcc8b7e74b2639\">9a864bbb3a34b7daa2bcc8b7e74b2639</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613130": {
+                "pageid": 188613130,
+                "ns": 6,
+                "title": "File:Edificios Chamizal y Revolución de 1910.jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "ProtoplasmaKid",
+                        "size": 17787048,
+                        "width": 6000,
+                        "height": 4000,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg/500px-Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 267,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg/960px-Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Edificios_Chamizal_y_Revoluci%C3%B3n_de_1910.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613130",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:53",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Edificios Chamizal y Revolución de 1910",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|Edificio Chamizal",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Collection of the Xaltilloli Museum, University Cultural Center (Chamizal and Revolución de 1910 Buildings), Nonoalco Tlatelolco Urban Complex, Mexico City, UNAM.",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2022-11-11 18:59:11",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ProtoplasmaKid\" title=\"User:ProtoplasmaKid\">ProtoplasmaKid</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613129": {
+                "pageid": 188613129,
+                "ns": 6,
+                "title": "File:Industrieel erfgoed bedrijfspand in Zwaagwesteinde, signatuur 76456.jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Mr.Nostalgic",
+                        "size": 3014290,
+                        "width": 5194,
+                        "height": 3425,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde%2C_signatuur_76456.jpg/500px-Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde%2C_signatuur_76456.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 264,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde%2C_signatuur_76456.jpg/960px-Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde%2C_signatuur_76456.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde%2C_signatuur_76456.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Industrieel_erfgoed_bedrijfspand_in_Zwaagwesteinde,_signatuur_76456.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613129",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:53",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Industrieel erfgoed bedrijfspand in Zwaagwesteinde, signatuur 76456",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Pages using duplicate arguments in template calls|CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Diapositives in Tresoar",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "De Westerein<br><b>Uitgever: </b>Provincie Fryslân<br><b>Straat en huisnummer: </b>Foarstrjitte, 37<br><b>Postcode: </b>9271KE<br><b>Creatiedatum: </b>01-1996<br><b>Formaat: </b>2,3 x 3,4<br><b>Eerder nummer of signatuur: </b>76456<br><b>Archiefnummer: </b>1875<br><b>Volgnummer-Onderdeel: </b>23762<br><b>Auteursrechtbepaling: </b>CC0 1.0<br><b>Beheerder collectie: </b>Tresoar<br><b>GUID: </b>ada17e98-6cc0-461f-a59a-57902acfab4a",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "01-1996",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://tresoar.nl/zoeken/collectie/ada17e98-6cc0-461f-a59a-57902acfab4a\">Tresoar</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Unknown",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Zero, Public Domain Dedication",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613126": {
+                "pageid": 188613126,
+                "ns": 6,
+                "title": "File:Mapillary (osmplus org) 2025-07-04 11H58M10S416 (10026506350808002 at dxsL2wnKNka4Vy1iHWopjP).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "PantheraLeo1359531",
+                        "size": 1327104,
+                        "width": 5760,
+                        "height": 2880,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mapillary_%28osmplus_org%29_2025-07-04_11H58M10S416_%2810026506350808002_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/500px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M10S416_%2810026506350808002_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 200,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mapillary_%28osmplus_org%29_2025-07-04_11H58M10S416_%2810026506350808002_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg/960px-Mapillary_%28osmplus_org%29_2025-07-04_11H58M10S416_%2810026506350808002_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mapillary_%28osmplus_org%29_2025-07-04_11H58M10S416_%2810026506350808002_at_dxsL2wnKNka4Vy1iHWopjP%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M10S416_(10026506350808002_at_dxsL2wnKNka4Vy1iHWopjP).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613126",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:50",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Mapillary (osmplus org) 2025-07-04 11H58M10S416 (10026506350808002 at dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "360° panoramas|Images from Mapillary|Files with coordinates missing SDC location of creation (51° N, 9° E)|Files from Mapillary uploaded by PantheraLeo1359531|Images from Mapillary uploaded with Curator|Photographs of Germany from Mapillary (dxsL2wnKNka4Vy1iHWopjP)",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "GPSLatitude": {
+                                "value": "51.598404",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSLongitude": {
+                                "value": "9.903848",
+                                "source": "commons-desc-page"
+                            },
+                            "GPSMapDatum": {
+                                "value": "WGS-84",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Photo from Mapillary <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M10S416_(10026506350808002_at_dxsL2wnKNka4Vy1iHWopjP).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "Taken on 4 July 2025, 11:58:10",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mapillary.com/app/?pKey=10026506350808002\">This file</a> comes from <b><a rel=\"nofollow\" class=\"external text\" href=\"https://mapillary.com\">Mapillary</a></b>, a service for sharing geotagged photos. All photos are under a CC BY-SA 4.0 license meaning the individual photographer must be credited for each image.",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "osmplus_org <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2025-07-04_11H58M10S416_(10026506350808002_at_dxsL2wnKNka4Vy1iHWopjP).jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                                "source": "commons-desc-page"
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY-SA 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution-Share Alike 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-sa-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613124": {
+                "pageid": 188613124,
+                "ns": 6,
+                "title": "File:Poverty share on less than 30 per day, Oceania, 2012.svg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "Doc James",
+                        "size": 153850,
+                        "width": 850,
+                        "height": 774,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_2012.svg/500px-Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_2012.svg.png",
+                        "thumbwidth": 400,
+                        "thumbheight": 364,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_2012.svg/960px-Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_2012.svg.png"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Poverty_share_on_less_than_30_per_day%2C_Oceania%2C_2012.svg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Poverty_share_on_less_than_30_per_day,_Oceania,_2012.svg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613124",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:50",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "Poverty share on less than 30 per day, Oceania, 2012",
+                                "source": "mediawiki-metadata"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|2012 maps of Oceania|Maps showing 2012|SVG maps by Our World in Data|Uploaded by OWID importer tool",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "ImageDescription": {
+                                "value": "Poverty: Share of population living on less than $30 a day, Oceania",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "2012",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ourworldindata.org/grapher/poverty-share-on-less-than-30-per-day\">https://ourworldindata.org/grapher/poverty-share-on-less-than-30-per-day</a>",
+                                "source": "commons-desc-page"
+                            },
+                            "Artist": {
+                                "value": "Our World In Data",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "\"License: All of Our World in Data is completely open access and all work is licensed under the Creative Commons BY license. You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.\"",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "CC BY 4.0",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Creative Commons Attribution 4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "true",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseUrl": {
+                                "value": "https://creativecommons.org/licenses/by/4.0",
+                                "source": "commons-desc-page"
+                            },
+                            "Copyrighted": {
+                                "value": "True",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "cc-by-4.0",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613125": {
+                "pageid": 188613125,
+                "ns": 6,
+                "title": "File:The Breckenridge Daily American (Breckenridge, Tex.), Vol. 3, No. 90, Ed. 1, Sunday, October 15, 1922 - DPLA - 18aa215d9bf45b297df94dbf29260f13 (page 2).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 345255,
+                        "width": 1500,
+                        "height": 1809,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_2%29.jpg/500px-The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_2%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 482,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_2%29.jpg/960px-The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_2%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_2%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Breckenridge_Daily_American_(Breckenridge,_Tex.),_Vol._3,_No._90,_Ed._1,_Sunday,_October_15,_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_(page_2).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613125",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:50",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nThe Breckenridge Daily American (Breckenridge, Tex.), Vol. 3, No. 90, Ed. 1, Sunday, October 15, 1922</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Media contributed by The Portal to Texas History|Information field template with formatting|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator|Media contributed by Breckenridge Library",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Artist": {
+                                "value": "Trout, Horace I",
+                                "source": "commons-desc-page"
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDaily newspaper from Breckenridge, Texas that includes local, state and national news along with extensive advertising.; eight pages : illus. ; page 16 x 22 in. Digitized from 35 mm. microfilm.</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "15 October 1922<div style=\"display: none;\">date QS:P571,+1922-10-15T00:00:00Z/11</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://www.wikidata.org/wiki/Q69492836\" class=\"extiw\" title=\"d:Q69492836\"><span title=\"public library system in Texas, USA\">Breckenridge Library</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/18aa215d9bf45b297df94dbf29260f13\">18aa215d9bf45b297df94dbf29260f13</a></li>\n<li>Breckenridge Library identifier: <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/\">https://texashistory.unt.edu/ark:/67531/metapth69299/</a>; sn86088128; 14053219; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/small/\">https://texashistory.unt.edu/ark:/67531/metapth69299/small/</a>; ark:/67531/metapth69299; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/manifest/\">https://texashistory.unt.edu/ark:/67531/metapth69299/manifest/</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "188613128": {
+                "pageid": 188613128,
+                "ns": 6,
+                "title": "File:The Breckenridge Daily American (Breckenridge, Tex.), Vol. 3, No. 90, Ed. 1, Sunday, October 15, 1922 - DPLA - 18aa215d9bf45b297df94dbf29260f13 (page 3).jpg",
+                "imagerepository": "local",
+                "imageinfo": [
+                    {
+                        "user": "DPLA bot",
+                        "size": 397786,
+                        "width": 1500,
+                        "height": 1813,
+                        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_3%29.jpg/500px-The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_3%29.jpg",
+                        "thumbwidth": 400,
+                        "thumbheight": 483,
+                        "responsiveUrls": {
+                            "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_3%29.jpg/960px-The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_3%29.jpg"
+                        },
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Breckenridge_Daily_American_%28Breckenridge%2C_Tex.%29%2C_Vol._3%2C_No._90%2C_Ed._1%2C_Sunday%2C_October_15%2C_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_%28page_3%29.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Breckenridge_Daily_American_(Breckenridge,_Tex.),_Vol._3,_No._90,_Ed._1,_Sunday,_October_15,_1922_-_DPLA_-_18aa215d9bf45b297df94dbf29260f13_(page_3).jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188613128",
+                        "extmetadata": {
+                            "DateTime": {
+                                "value": "2026-04-10 04:14:52",
+                                "source": "mediawiki-metadata",
+                                "hidden": ""
+                            },
+                            "ObjectName": {
+                                "value": "<div class=\"fn\">\nThe Breckenridge Daily American (Breckenridge, Tex.), Vol. 3, No. 90, Ed. 1, Sunday, October 15, 1922</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "CommonsMetadataExtension": {
+                                "value": 1.2,
+                                "source": "extension",
+                                "hidden": ""
+                            },
+                            "Categories": {
+                                "value": "PD US|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Media contributed by The Portal to Texas History|Information field template with formatting|Digital Public Library of America files missing required SDC statements|PD-US missing SDC copyright status|Digital Public Library of America files missing creator|Media contributed by Breckenridge Library",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Assessments": {
+                                "value": "",
+                                "source": "commons-categories",
+                                "hidden": ""
+                            },
+                            "Artist": {
+                                "value": "Trout, Horace I",
+                                "source": "commons-desc-page"
+                            },
+                            "ImageDescription": {
+                                "value": "<div class=\"description\">\nDaily newspaper from Breckenridge, Texas that includes local, state and national news along with extensive advertising.; eight pages : illus. ; page 16 x 22 in. Digitized from 35 mm. microfilm.</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "DateTimeOriginal": {
+                                "value": "15 October 1922<div style=\"display: none;\">date QS:P571,+1922-10-15T00:00:00Z/11</div>",
+                                "source": "commons-desc-page"
+                            },
+                            "Credit": {
+                                "value": "This file was contributed to Wikimedia Commons by <a href=\"https://www.wikidata.org/wiki/Q69492836\" class=\"extiw\" title=\"d:Q69492836\"><span title=\"public library system in Texas, USA\">Breckenridge Library</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/18aa215d9bf45b297df94dbf29260f13\">18aa215d9bf45b297df94dbf29260f13</a></li>\n<li>Breckenridge Library identifier: <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/\">https://texashistory.unt.edu/ark:/67531/metapth69299/</a>; sn86088128; 14053219; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/small/\">https://texashistory.unt.edu/ark:/67531/metapth69299/small/</a>; ark:/67531/metapth69299; <a rel=\"nofollow\" class=\"external free\" href=\"https://texashistory.unt.edu/ark:/67531/metapth69299/manifest/\">https://texashistory.unt.edu/ark:/67531/metapth69299/manifest/</a></li></ul>\n</span>",
+                                "source": "commons-desc-page"
+                            },
+                            "Permission": {
+                                "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "LicenseShortName": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "UsageTerms": {
+                                "value": "Public domain",
+                                "source": "commons-desc-page"
+                            },
+                            "AttributionRequired": {
+                                "value": "false",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Copyrighted": {
+                                "value": "False",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "Restrictions": {
+                                "value": "",
+                                "source": "commons-desc-page",
+                                "hidden": ""
+                            },
+                            "License": {
+                                "value": "pd",
+                                "source": "commons-templates",
+                                "hidden": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
